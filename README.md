@@ -10,28 +10,28 @@
 
 ------------------------------
 
-## *O que é o DataEase?*  
+## O que é o DataEase?  
 
 O DataEase é uma ferramenta de BI open-source projetada para ajudar os usuários a analisar dados rapidamente e obter insights de negócios, permitindo melhorias e otimização de operações. Ele suporta uma ampla variedade de fontes de dados, permitindo a criação de gráficos com uma interface simples de arrastar e soltar e compartilhamento fácil.  
 
-### *Vantagens do DataEase:*  
+## Vantagens do DataEase:  
 
--   *Open Source*: Zero barreiras, aquisição e instalação rápidas, atualizações mensais.  
--   *Fácil de Usar*: Análises podem ser feitas com cliques do mouse e ações de arrastar e soltar.  
--   *Versátil*: Suporta instalação em múltiplas plataformas e opções diversificadas de incorporação.  
--   *Compartilhamento Seguro*: Oferece vários métodos de compartilhamento de dados com segurança.  
+-   Open Source: Zero barreiras, aquisição e instalação rápidas, atualizações mensais.  
+-   Fácil de Usar: Análises podem ser feitas com cliques do mouse e ações de arrastar e soltar.  
+-   Versátil: Suporta instalação em múltiplas plataformas e opções diversificadas de incorporação.  
+-   Compartilhamento Seguro: Oferece vários métodos de compartilhamento de dados com segurança.  
 
-### *Fontes de Dados Suportadas:*  
+## Fontes de Dados Suportadas:  
 
--   *Bancos de Dados OLTP*: MySQL, Oracle, SQL Server, PostgreSQL, MariaDB, Db2, TiDB, MongoDB-BI, etc.  
--   *Bancos de Dados OLAP*: ClickHouse, Apache Doris, Apache Impala, StarRocks, etc.  
--   *Armazéns/Dados em Lago*: Amazon RedShift, etc.  
--   *Arquivos de Dados*: Excel, CSV, etc.  
--   *APIs de Dados*.  
+-   Bancos de Dados OLTP: MySQL, Oracle, SQL Server, PostgreSQL, MariaDB, Db2, TiDB, MongoDB-BI, etc.  
+-   Bancos de Dados OLAP: ClickHouse, Apache Doris, Apache Impala, StarRocks, etc.  
+-   Armazéns/Dados em Lago: Amazon RedShift, etc.  
+-   Arquivos de Dados: Excel, CSV, etc.  
+-   APIs de Dados.  
 
 ---  
 
-## *Início Rápido*  
+## Início Rápido  
 
 bash  
 # Prepare um servidor Linux com pelo menos 2 CPUs e 4GB de RAM, e execute o seguinte script de instalação como root:  
@@ -67,14 +67,14 @@ Exibição da Interface de Usuário (UI)
   </tr>
 </table>
 
-## *Tecnologias Utilizadas*  
+## Tecnologias Utilizadas 
 
--   *Frontend*: [Vue.js](https://vuejs.org/), [Element](https://element.eleme.cn/)  
--   *Biblioteca de Visualização*: [AntV](https://antv.vision/zh)  
--   *Backend*: [Spring Boot](https://spring.io/projects/spring-boot)  
--   *Banco de Dados*: [MySQL](https://www.mysql.com/)  
--   *Processamento de Dados*: [Apache Calcite](https://github.com/apache/calcite/), [Apache SeaTunnel](https://github.com/apache/seatunnel)  
--   *Infraestrutura*: [Docker](https://www.docker.com/)  
+-   Frontend: [Vue.js](https://vuejs.org/), [Element](https://element.eleme.cn/)  
+-   Biblioteca de Visualização: [AntV](https://antv.vision/zh)  
+-   Backend: [Spring Boot](https://spring.io/projects/spring-boot)  
+-   Banco de Dados: [MySQL](https://www.mysql.com/)  
+-   Processamento de Dados: [Apache Calcite](https://github.com/apache/calcite/), [Apache SeaTunnel](https://github.com/apache/seatunnel)  
+-   Infraestrutura: [Docker](https://www.docker.com/)  
 
 
 ## Outros projetos de destaque da Feizhiyun
@@ -85,7 +85,7 @@ Exibição da Interface de Usuário (UI)
 - [Halo](https://github.com/halo-dev/halo/) - Ferramenta poderosa e fácil de usar para criação de sites, de código aberto
 - [MeterSphere](https://github.com/metersphere/metersphere/) - Ferramenta de teste contínuo de nova geração, de código aberto
 
-## *Licença*  
+## Licença  
 
 Copyright (c) 2014-2024 [FIT2CLOUD](https://fit2cloud.com/), Todos os direitos reservados.  
 
